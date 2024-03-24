@@ -10,8 +10,8 @@
 4. Use the code BLE_main.py to read the guestures in your laptop/PC, run the following commands in command prompt
 
      pip install bleak
-   
      pip install asyncio
-
+   
+6. Use the code main.py to read the guestures and update the same in GUI
 
  
